@@ -9,7 +9,8 @@
     "files": [
         "README.md",
         "main.ts",
-        "Wifi.ts"
+        "Wifi.ts",
+        "Environment.ts"
     ],
     "testFiles": [
         "test.ts"
